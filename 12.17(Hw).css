@@ -1,0 +1,33 @@
+body{
+	display: flex;
+	text-align: center;
+	vertical-align: middle;
+}
+.block{
+	border:  300px;
+	background-color: #D6EAF8;
+	width:  300px;
+	text-align: center;
+	vertical-align: middle;
+	margin-left: 40%;
+}
+.button{
+	background -color: #D6EAF8;
+	font: cursive;
+	border-radius: 2px;
+}
+.button:hover{
+	background-color: #D6EAF8;
+}
+.font{
+	font-family: sans-serif;
+}
+#table th{
+	border: 1px solid #AED6F1;
+	background-color: papayawhip;
+}
+#table td{
+	border: 1px solid #AED6F1;
+	width: 20px;
+	background-color: seashell;
+}
